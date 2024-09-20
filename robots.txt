@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alroyfurs.github.io/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/app/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/assets/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/css/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/data/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/includes/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/item/sitemap.html.gz
+Sitemap: https://alroyfurs.github.io/src/sitemap.html.gz
